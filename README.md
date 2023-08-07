@@ -34,6 +34,13 @@ If you would like to contribute to the Snake Game project, you can follow these 
 5. Commit and push your changes to your forked repository.
 6. Submit a pull request to the main repository, explaining your changes in detail.
 
+## Screenshots
+
+<img width="48%" src="https://github.com/abhijivani3001/snakeGame/assets/117305467/55f6aee9-0ceb-477f-82e1-5fb7ba199b3a" alt="home-page"/>
+<img width="48%" src="https://github.com/abhijivani3001/snakeGame/assets/117305467/8359e96e-aaf3-4888-b441-92e9250f5a8a" alt="big-fruit"/>
+<img width="48%" src="https://github.com/abhijivani3001/snakeGame/assets/117305467/cb4aa4b5-7a1c-45dc-8e2c-12818f4b4679" alt="home-page"/>
+<img width="48%" src="https://github.com/abhijivani3001/snakeGame/assets/117305467/0fd94588-3a96-4d52-9d78-f45957f872f5" alt="home-page"/>
+
 ## Acknowledgements
 * https://openjfx.io/openjfx-docs/
 * https://docs.oracle.com/javase/8/javase-clienttechnologies.htm
